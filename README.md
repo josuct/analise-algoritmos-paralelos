@@ -65,3 +65,5 @@ A execução foi projetada de forma nativa e pura pelo terminal, garantindo o fu
 3. Execute o comando exato abaixo para **compilar** a aplicação:
    ```bash
    javac WordCounterApp.java
+
+Link do Repositório no GitHub: https://github.com/josuct/analise-algoritmos-paralelos
