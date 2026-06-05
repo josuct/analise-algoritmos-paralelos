@@ -29,7 +29,7 @@ O framework de testes lê e trata os arquivos de texto de forma nativa. Para mit
 Os tempos de execução foram consolidados no arquivo gerado pela aplicação.
 
 ### Gráfico Comparativo de Desempenho
-*(Insira aqui a imagem do gráfico de colunas gerado no seu Excel a partir do arquivo CSV)*
+![Gráfico de Performance](grafico_performance.png)
 
 ### Análise Crítica
 1. **Desempenho Multi-Core (CPU):** Com o aumento do tamanho dos arquivos de entrada (de Dracula para Don Quixote), o escalonamento de threads de 2 para 4 e 8 demonstrou eficiência, reduzindo progressivamente o tempo total de execução.
