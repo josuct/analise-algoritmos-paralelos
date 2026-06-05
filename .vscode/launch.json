@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WordCounterApp",
+            "request": "launch",
+            "mainClass": "WordCounterApp",
+            "classPaths": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/lib/jocl-2.0.4.jar"
+            ]
+        }
+    ]
+}
